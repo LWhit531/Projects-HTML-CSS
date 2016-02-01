@@ -50,8 +50,9 @@ body {
 	color: #666666;
 }
 .post img {/*I want to center this relative to the text*/
-	margin: auto;
-	vertical-align: center;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding-bottom: 10px;
 }
 .text {
 	font-family: Verdana;
