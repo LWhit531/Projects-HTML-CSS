@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>Sample Blog</title>
+	<link rel="stylesheet" type="text/css" href="blogcss2.css">
+	<!-- fonts -->
+</head>
+<body>
+	<div id="header">
+		<h1>Polaroid Tumblr Keytar</h1>
+		<h3>before they sold out cray</h3>
+	</div>
+	<br>
+	<br>
+	<div id="container">
+	<div class="post">
+		<h3 class="date">01 February 2016</h3>
+		<h1 class="title">Tousled salvia selvage, hashtag knausgaard kale chips semiotics.</h1>
+		<p class="block">Stumptown cronut banjo, polaroid tofu taxidermy gentrify. Cornhole selvage brooklyn disrupt, truffaut yr green juice bushwick plaid.</p>
+		<img src="https://pixabay.com/static/uploads/photo/2015/03/26/09/46/donuts-690281_960_720.jpg" width= 350px height= 200px>
+		<p class="text">Forage synth bespoke ramps, cornhole messenger bag offal tilde everyday carry YOLO cold-pressed umami cardigan. Typewriter bicycle rights craft beer, tilde williamsburg marfa narwhal. Meditation tofu squid +1 helvetica. DIY master cleanse vice banh mi beard slow-carb.</p>
+		<a href="#">Comment</a>
+		<a href="#">Like</a>
+	</div>
+		<hr>
+		<div class="post">
+		<h3 class="date">22 January 2016</h3>
+		<h1 class="title">XOXO narwhal trust fund fanny pack artisan meh green juice, kombucha PBR&B kale chips offal taxidermy.</h1>
+		<p class="block">Venmo taxidermy sartorial, shoreditch wolf schlitz cred hella gentrify swag viral. Echo park master cleanse distillery cold-pressed intelligentsia.</p>
+		<p class="text">Cold-pressed you probably haven't heard of them health goth truffaut, hammock quinoa freegan scenester letterpress cred. Godard pop-up gastropub skateboard. Bitters bicycle rights freegan, YOLO VHS hammock man bun godard retro microdosing plaid everyday carry. Literally wolf etsy dreamcatcher lumbersexual, umami actually selvage chia.</p>
+		<a href="#">Comment</a>
+		<a href="#">Like</a>
+	</div>
+		<hr>
+		<div class="post">
+		<h3 class="date">15 January 2016</h3>
+		<h1 class="title">XOXO narwhal trust fund fanny pack artisan meh green juice, kombucha PBR&B kale chips offal taxidermy.</h1>
+		<p class="block">Flexitarian mumblecore pour-over affogato pork belly hella jean shorts fap, locavore tousled health goth ramps.</p>
+		<p class="text">Chicharrones taxidermy four dollar toast williamsburg. Scenester tattooed truffaut, meggings bushwick godard taxidermy. Vinyl freegan blue bottle, chambray crucifix sustainable tacos shabby chic pour-over seitan. Street art yuccie lo-fi forage, ugh shoreditch neutra bushwick venmo beard chartreuse whatever disrupt single-origin coffee. Yuccie migas you probably haven't heard of them aesthetic, pickled keffiyeh portland. Whatever fashion axe scenester 8-bit, swag jean shorts shabby chic hoodie pickled shoreditch chicharrones distillery semiotics occupy.</p>
+		<a href="#">Comment</a>
+		<a href="#">Like</a>
+	</div>
+		<hr>
+	</div>
+</body>
+</html>
