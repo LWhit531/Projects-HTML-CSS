@@ -1,0 +1,66 @@
+body {
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/04/18/07/45/abstract-728425_960_720.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+#header {
+	background-color: #FFFFFF;
+	opacity: 0.8;
+	font-family: Verdana;
+	width: 100%;
+	text-align: center;
+	border: 10px solid #000000;
+}
+#header h1 {
+	color: #29a3a3;
+	font-size: 30px;
+}
+#header h3 {
+	color: #000000;
+}
+
+#container {
+	width: 80%;
+	border: 20px solid #000000;
+	margin: auto;
+	padding: 10px;
+	max-width: 700px;
+	background-color: #FFFFFF;
+}
+.post {
+	/*font-family:;*/
+}
+.date {
+	font-family: Verdana;
+	color: #29a3a3;
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+.title {
+	font-family: Verdana;
+	font-style: bold;
+	color: #000000;
+}
+.block {
+	border-left: 3px solid #29a3a3;
+	padding-left: 5px;
+	font-family: Verdana;
+	font-style: italic;
+	color: #666666;
+}
+.post img {/*I want to center this relative to the text*/
+	margin: auto;
+	vertical-align: center;
+}
+.text {
+	font-family: Verdana;
+	color: #000000;
+	margin: 5px;
+	padding-bottom: 5px;
+}
+.post a {
+	font-family: Verdana;
+	color: #29a3a3;
+	text-align: right; /*float to right side of text box*/
+}
